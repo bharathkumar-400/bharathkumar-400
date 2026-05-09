@@ -1,48 +1,74 @@
 # 👋 Hi, I'm Bharath Kumar
 
-🎓 I am studying **B.E. in Computer Science and Engineering (8th Semester)**.
-💻 I enjoy learning **Java, Web Development, and Programming Logic**.
-🚀 Currently improving my **coding skills and building projects**.
+🎓 I am pursuing **B.E. in Computer Science and Engineering (8th Semester)**.
+💻 Passionate about **Java Full Stack Development, Problem Solving, and Software Development**.
+🚀 Currently focused on improving my skills in **Spring Boot, Data Structures & Algorithms, and Backend Development**.
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect with Me
 
 * 📧 Email: [bharathkumarpr17@gmail.com](mailto:bharathkumarpr17@gmail.com)
-* 📷 Instagram
+* 💻 GitHub: https://github.com/bharathkumar-400
 
 ---
 
-## 💻 Tech Stack
+# 💻 Technical Skills
+
+## Programming Languages
 
 * Java
-* C++
 * Python
+* C++
+
+## Web Technologies
+
 * HTML
 * CSS
+* Bootstrap
+* Thymeleaf
+
+## Frameworks & Tools
+
+* Spring Boot
+* Hibernate
+* Spring Data JPA
+* Maven
+* OpenCV
+* Git & GitHub
+
+## Database
+
 * MySQL
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-* Java Programming
-* Web Development (HTML, CSS)
+* Data Structures & Algorithms (DSA)
+* Spring Boot Advanced Concepts
+* REST APIs
+* Backend Development
 * Problem Solving
 
 ---
 
-## 📂 My Projects
+# 📂 Featured Projects
 
-* 🔹 **java-practice** – Java logic programs
-* 🔹 **web_task** – HTML and CSS web pages
+## 🔹 ClickNBuy – E-Commerce Web Application
+
+Developed a full-stack e-commerce web application using Java, Spring Boot, Thymeleaf, and MySQL with features like user authentication, cart management, product browsing, and order handling.
+
+## 🔹 Real-Time Smart Surveillance System
+
+Developed a Smart Surveillance System using Python and OpenCV for real-time motion and threat detection with automatic image/video recording functionalities.
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
-I try to practice coding **every day** and push my work to GitHub.
+I actively practice coding, work on real-time projects, and continuously improve my development skills by building applications and solving programming problems.
 
 ---
 
-⭐ *Thank you for visiting my profile!*
+⭐ Thank you for visiting my profile!
